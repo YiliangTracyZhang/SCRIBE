@@ -10,4 +10,4 @@ Please run Rscript --vanilla fitSCRIBE.R [expression file] [batch index file] [b
 
 The output imputed and de-noised expression matrix is in the same size of the input expression matrix.
 
-For more information can be found in [our manuscript](https://www.biorxiv.org/content/10.1101/793463v4).
+More information can be found in [our manuscript](https://www.biorxiv.org/content/10.1101/793463v4).
